@@ -73,6 +73,24 @@ The analysis included descriptive comparisons, exploratory correlation analyses,
 
 All data processing, analysis, and visualization were conducted in R.
 
+## Key Visualizations
+
+### Conflict Hotspots in Uganda
+
+![Conflict Hotspots](figures/uganda_conflict_hotspots.png)
+
+### HIV Prevalence vs Conflict Fatalities
+
+![HIV vs Conflict Fatalities](figures/hiv_prevalence_vs_conflict_fatalities.png)
+
+### HIV Prevalence vs Conflict Events
+
+![HIV vs Conflict Events](figures/hiv_prevalence_vs_conflict_events.png)
+
+### ART Coverage vs Conflict Fatalities
+
+![ART Coverage vs Conflict Fatalities](figures/art_coverage_vs_conflict_fatalities.png)
+
 ## Findings
 
 ### Conflict and HIV Appear Related, Though Not Strongly
